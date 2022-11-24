@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Marmelade';
+    src: url('../font/Marmalede.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Thin.ttf');
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 8vw;
+}
+
+.joaquin {
+    font-family: 'Rockwell', sans-serif;
+    font-size: 8vw;
+}
+
+.super {
+    font-family: 'Marmelade', sans-serif;
+    font-size: 8vw;}
