@@ -71,7 +71,7 @@ if ($_POST) {
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="scss/custom.css">
-    <title>Registro - Supermercado Joaquin</title>
+    <title>Registro - Supermarket</title>
 </head>
 
 <body class="bg-light">

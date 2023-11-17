@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="scss/custom.css">
-    <title>Error al procesar pago - Supermercado Joaquin</title>
+    <title>Error al procesar pago - Supermarket</title>
 </head>
 
 <body class="bg-danger">

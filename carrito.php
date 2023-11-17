@@ -87,7 +87,7 @@ if ($_GET) {
     <script src="https://sdk.mercadopago.com/js/v2"></script>
     <link rel="stylesheet" href="scss/custom.css">
     <link rel="stylesheet" href="css/styles.css">
-    <title>Carrito - Supermercado Joaquin</title>
+    <title>Carrito - Supermarket</title>
 </head>
 
 <body class="bg-light">
@@ -139,7 +139,7 @@ if ($_GET) {
                     </div>
                     <div class="offcanvas-bottom">
                         <ul class="navbar-nav flex-grow-1 px-3">
-                            <li class="nav-item m-auto"> Supermercado Joaquin © 2022 | Todos los derechos reservados.
+                            <li class="nav-item m-auto"> Supermarket © 2022 | Todos los derechos reservados.
                             </li>
                         </ul>
                     </div>

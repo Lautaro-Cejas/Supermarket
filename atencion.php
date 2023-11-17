@@ -47,7 +47,7 @@ if ($_POST) {
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="scss/custom.css">
-    <title>Atención al cliente - Supermercado Joaquin</title>
+    <title>Atención al cliente - Supermarket</title>
 </head>
 
 <body>
@@ -98,7 +98,7 @@ if ($_POST) {
                     </div>
                     <div class="offcanvas-bottom">
                         <ul class="navbar-nav flex-grow-1 px-3">
-                            <li class="nav-item m-auto"> Supermercado Joaquin © 2022 | Todos los derechos reservados.
+                            <li class="nav-item m-auto"> Supermarket © 2022 | Todos los derechos reservados.
                             </li>
                         </ul>
                     </div>

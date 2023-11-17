@@ -23,7 +23,7 @@ $estaEnCarrito = $conexion->seleccionar("SELECT * FROM compra WHERE id_usuario =
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="scss/custom.css">
-    <title>Inicio - Supermercado Joaquin</title>
+    <title>Inicio - Supermarket</title>
 </head>
 
 <body class="bg-light">
@@ -74,13 +74,13 @@ $estaEnCarrito = $conexion->seleccionar("SELECT * FROM compra WHERE id_usuario =
                     </div>
                     <div class="offcanvas-bottom">
                         <ul class="navbar-nav flex-grow-1 px-3">
-                            <li class="nav-item m-auto"> Supermercado Joaquin © 2022 | Todos los derechos reservados.
+                            <li class="nav-item m-auto"> Supermarket © 2022 | Todos los derechos reservados.
                             </li>
                         </ul>
                     </div>
                 </div>
                 <a class="navbar-brand mx-auto p-3 bg-success rounded-2" href="index.php">
-                    <p class="super h3"><img src="img/logo.png" alt="logo" class="img-fluid m-auto" width="50"> Supermercado <b class="text-primary joaquin">Joaquin</b></p>
+                    <p class="super h3"><img src="img/logo.png" alt="logo" class="img-fluid m-auto" width="50"> Supermarket</b></p>
                 </a>
                 <a class="nav-link" href="carrito.php">
                     <button type="button" class="btn btn-primary"><img src="img/carro.png" class="img-fluid" alt="carrito" width="30">(<?php echo(count($estaEnCarrito)) ?>)</button>
@@ -109,7 +109,7 @@ $estaEnCarrito = $conexion->seleccionar("SELECT * FROM compra WHERE id_usuario =
             <div class="container-fluid py-5 m-auto">
                 <h1 class="display-5 fw-bold">Empieza a comprar!</h1>
                 <hr class="border border-dark border-1 me-4">
-                <p class="col-md-8 fs-4 text-info">En Supermercado Joaquin encontras todo lo que necesitas para tu hogar sin
+                <p class="col-md-8 fs-4 text-info">En Supermarket encontras todo lo que necesitas para tu hogar sin
                     perder tu tiempo.</p>
                 <a href="productos.php"><button class="btn btn-outline-primary btn-lg" type="button">Ver
                         productos</button></a>

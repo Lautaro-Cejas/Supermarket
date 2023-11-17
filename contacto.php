@@ -22,7 +22,7 @@ $estaEnCarrito = $conexion->seleccionar("SELECT * FROM compra WHERE id_usuario =
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="scss/custom.css">
-    <title>Contacto - Supermercado Joaquin</title>
+    <title>Contacto - Supermarket</title>
 </head>
 
 <body class="bg-light">
@@ -73,7 +73,7 @@ $estaEnCarrito = $conexion->seleccionar("SELECT * FROM compra WHERE id_usuario =
                     </div>
                     <div class="offcanvas-bottom">
                         <ul class="navbar-nav flex-grow-1 px-3">
-                            <li class="nav-item m-auto"> Supermercado Joaquin © 2022 | Todos los derechos reservados.
+                            <li class="nav-item m-auto"> Supermarket © 2022 | Todos los derechos reservados.
                             </li>
                         </ul>
                     </div>

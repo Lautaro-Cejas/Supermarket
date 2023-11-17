@@ -45,7 +45,7 @@ ob_start();
     <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/sj/img/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/sj/css/styles.css">
     <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/sj/scss/custom.css">
-    <title>Factura - Supermercado Joaquin</title>
+    <title>Factura - Supermarket</title>
 </head>
 
 <body>
